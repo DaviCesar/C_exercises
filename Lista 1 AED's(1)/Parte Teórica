@@ -1,0 +1,90 @@
+1) Classifique os conteúdo das variáveis abaixo de acordo com seu tipo, assinalando com I os dados inteiros, R os 
+dados Reais e com C os literais.
+(I) 0
+(C) "abc"
+(C) "João"
+(R) 5.7
+(I) 1012
+(I) -49
+(I) +342
+(I) 569
+(C) "Lucas"
+(C) "VERDADEIRO"
+(R) 0.00001
+(I) -545
+(C) " 444 "
+
+===========================================================================================
+
+2) Assinale com um X os nomes de variáveis válidos.
+(X) abc
+( ) 3abc
+(X) a
+( ) 123a
+( ) –a
+(X) acd1
+( ) ABC DE
+( ) etc.
+(X) b316
+(X) leia
+(X) inteiro
+(X) imprima
+(X) valor
+(X) _b248
+( ) nota*do*aluno
+(X) a1b2c3
+( ) 3 x 4
+(X) leia
+( ) -_ad
+( ) A&a
+( ) guarda-chuva
+(X) A123
+(X) Aa
+(X) guarda_chuva
+( ) km/h
+( ) 3xyz
+( ) nome empresa
+(X) sala_215
+( ) “nota”
+( ) ah!
+
+===========================================================================================
+
+3) O que aparecerá na tela ao executar os programas abaixo?
+
+3a-EXEMPLO- Programa - v0.0
+Autor: ______________________
+
+01. x = 0
+02. y = 3.500000
+03. z = A
+04. x = 65 -> A
+05. x = 3 -> 3.500000
+06. z = a -> 97
+07. z = 0 -> 48
+08. x = 0 -> 0
+
+===========================================================================================
+
+3b- EXEMPLO - Programa - v0.0 - continuacao
+Autor: ______________________
+
+09. x = 1 -> 1
+10. x = 0 -> 1
+11. x = 1 -> 1
+12. x = 1 -> 1
+13. w = 1 < 3.500000 = 1
+14. w = 1 <= 3.500000 = 1
+15. w = 3.500000 > 1 = 1
+16. w = 3.500000 >= 1 = 1
+
+===========================================================================================
+
+3c- EXEMPLO - Programa - v0.0 - continuacao
+Autor: ______________________
+
+17. e' par  (4) ? 1
+18. e' impar  (4) ? 0
+19. e' minuscula  (x) ? 1
+20. e' maiuscula  (x) ? 0
+21. e' 0 ou 1 (0) ? 1
