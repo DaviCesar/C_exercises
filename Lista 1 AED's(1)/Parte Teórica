@@ -1,4 +1,6 @@
-1) Classifique os conteúdo das variáveis abaixo de acordo com seu tipo, assinalando com I os dados inteiros, R os 
+Exercicio 1
+
+Classifique os conteúdo das variáveis abaixo de acordo com seu tipo, assinalando com I os dados inteiros, R os 
 dados Reais e com C os literais.
 (I) 0
 (C) "abc"
@@ -16,7 +18,9 @@ dados Reais e com C os literais.
 
 ===========================================================================================
 
-2) Assinale com um X os nomes de variáveis válidos.
+Exercicio 2 
+
+Assinale com um X os nomes de variáveis válidos.
 (X) abc
 ( ) 3abc
 (X) a
@@ -50,9 +54,12 @@ dados Reais e com C os literais.
 
 ===========================================================================================
 
-3) O que aparecerá na tela ao executar os programas abaixo?
+Exercicio 3
+Letra A-
 
-3a)-EXEMPLO- Programa - v0.0
+O que aparecerá na tela ao executar os programas abaixo?
+
+EXEMPLO- Programa - v0.0
 Autor: ______________________
 
 01. x = 0
@@ -66,7 +73,10 @@ Autor: ______________________
 
 ===========================================================================================
 
-3)b- EXEMPLO - Programa - v0.0 - continuacao
+Exercicio 3 
+Letra B-
+
+Programa - v0.0 - continuacao
 Autor: ______________________
 
 09. x = 1 -> 1
@@ -80,7 +90,10 @@ Autor: ______________________
 
 ===========================================================================================
 
-3)c- EXEMPLO - Programa - v0.0 - continuacao
+Exercicio 3 
+Letra C- 
+
+EXEMPLO - Programa - v0.0 - continuacao
 Autor: ______________________
 
 17. e' par  (4) ? 1
